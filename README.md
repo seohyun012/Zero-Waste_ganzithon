@@ -6,7 +6,7 @@
 ---
 
 ### 🖥️ Project View
-<img width="300" height="668" alt="image" src="https://github.com/user-attachments/assets/97324378-31a4-4f66-90f1-bf5cd7d79c74" />
+<img width="300" height="675" alt="image" src="https://github.com/user-attachments/assets/97324378-31a4-4f66-90f1-bf5cd7d79c74" />
 <img width="308" height="660" alt="image" src="https://github.com/user-attachments/assets/fbee6d35-48e0-40fb-9099-200579ef37ee" />
 <img width="300" height="684" alt="image" src="https://github.com/user-attachments/assets/05576ae1-bb19-4851-8a19-eff742d8ab60" />
 
