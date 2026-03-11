@@ -26,5 +26,5 @@
 ---
 
 ### 🛠 Tech Stack
-* **Frontend**: React, Vite, TypeScript
+* **Frontend**: React, Vite, Javascript
 * **Design**: Figma
