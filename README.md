@@ -21,6 +21,9 @@
 ### 🎨 Design & Prototype
 * [Link to Figma Design](https://www.figma.com/design/tCOOoMzrIv3QXE8MveDpqO/%EA%B3%BC%EC%9E%89%EC%A0%9C%EB%A1%9C?node-id=155-3&p=f&t=KfEw3rn82F0NlBNN-0)
 
+### 📂 Project Documents
+* [📄 프로젝트 최종 발표 자료 (PDF)](https://github.com/seohyun012/VolunMe_swContest/blob/main/VolunMe%EB%B0%9C%ED%91%9C.pdf)
+
 ---
 
 ### 👩‍💻 My Role (Frontend & Design)
