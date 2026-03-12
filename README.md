@@ -11,8 +11,6 @@
 <img width="300" height="684" alt="image" src="https://github.com/user-attachments/assets/05576ae1-bb19-4851-8a19-eff742d8ab60" />
 
 
-
-
 ---
 
 ### ✨ Key Features
@@ -22,6 +20,13 @@
 
 ### 🎨 Design & Prototype
 * [Link to Figma Design](https://www.figma.com/design/tCOOoMzrIv3QXE8MveDpqO/%EA%B3%BC%EC%9E%89%EC%A0%9C%EB%A1%9C?node-id=155-3&p=f&t=KfEw3rn82F0NlBNN-0)
+
+---
+
+### 👩‍💻 My Role (Frontend & Design)
+* **UI/UX 디자인**: Figma를 활용한 서비스 전체 와이어프레임 및 프로토타입 설계, 전반적인 외형 디자인
+* **프론트엔드 개발**: JaveScript를 활용하여 홈,진단서 등록 페이지 제작
+* **API 연동**: 공공 데이터를 활용한 약물 처방 통계 데이터 바인딩 작업
 
 ---
 
