@@ -18,6 +18,8 @@
 * **진료비 비교**: 평균 진료비 및 조제료 정보를 시각화하여 합리적인 의료 이용 지원
 * **데이터 기반 분석**: 공공 데이터를 활용한 신뢰도 높은 정보 제공
 
+---
+
 ### 🎨 Design & Prototype
 * [Link to Figma Design](https://www.figma.com/design/tCOOoMzrIv3QXE8MveDpqO/%EA%B3%BC%EC%9E%89%EC%A0%9C%EB%A1%9C?node-id=155-3&p=f&t=KfEw3rn82F0NlBNN-0)
 
